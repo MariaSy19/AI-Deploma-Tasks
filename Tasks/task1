@@ -2,18 +2,47 @@
 
 ## Task Description
 
-In this task, you will embark on a journey to build an iOS app using Python. Although Python isn't native to iOS development, we'll leverage the powerful [Kivy framework](https://kivy.org/doc/stable/) to bridge this gap. Kivy is an open-source library that empowers developers to create cross-platform apps using Python.
+In this task, you will learn how to build an iOS app using Python. While Python is not a native iOS development language, we can utilize a tool called KIVY to help us achieve this. KIVY is an open-source library that enables the creation of cross-platform apps using Python.
 
 ## Task Objectives
 
-1. **Understand the Basics of Kivy Framework.**
-2. **Set Up a Development Environment for iOS Apps with Python.**
-3. **Create a Simple iOS App Using Python and Kivy.**
+1. Understand the basics of KIVY framework.
+2. Set up a development environment for building iOS apps with Python.
+3. Create a simple iOS app using Python and KIVY.
 
 ## Resources
 
-- [Kivy Documentation](https://kivy.org/doc/stable/)
+- [KIVY Documentation](https://kivy.org/doc/stable/)
 
-## Answer:
+## Steps
 
-To build an iOS app using Python, you can utilize the Kivy framework. Kivy is an open-source Python library that enables the creation of cross-platform mobile applications, including those for iOS. Keep in mind that Python is not a native iOS development language, so Kivy acts as a bridge to facilitate this process.
+### Step 1: Understanding KIVY
+
+Before diving into building the iOS app, familiarize yourself with the KIVY framework. Read through the official documentation to grasp the core concepts.
+
+### Step 2: Setting Up Development Environment
+
+Follow the instructions provided in the KIVY documentation to set up your development environment for iOS app development with Python.
+
+### Step 3: Creating a Simple iOS App
+
+Using the knowledge gained from Step 1 and Step 2, create a basic iOS app using Python and KIVY. You can start with a "Hello World" application to get comfortable with the process.
+
+## Submission Guidelines
+
+Please submit your code via a pull request to this repository. Ensure that your code is well-documented and organized. Include a README file with instructions on how to run the app.
+
+## Evaluation Criteria
+
+Your submission will be evaluated based on the following criteria:
+
+- Understanding of KIVY framework
+- Correct setup of the development environment
+- Functionality and design of the iOS app
+- Code quality and organization
+
+## Additional Notes
+
+- Feel free to reach out if you have any questions or encounter any difficulties during the process.
+
+Happy coding!
