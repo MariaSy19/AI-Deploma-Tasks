@@ -1,1 +1,21 @@
+# Building an iOS App using Python
 
+## Task Description
+
+In this task, you will learn how to build an iOS app using Python. While Python is not a native iOS development language, we can utilize a tool called KIVY to help us achieve this. KIVY is an open-source library that enables the creation of cross-platform apps using Python.
+
+## Task Objectives
+
+1. Understand the basics of KIVY framework.
+2. Set up a development environment for building iOS apps with Python.
+3. Create a simple iOS app using Python and KIVY.
+
+## Resources
+
+- [KIVY Documentation](https://kivy.org/doc/stable/)
+
+## Answer:
+-To build an iOS app using Python, you can utilize the Kivy framework.
+Kivy is an open-source Python library that enables the creation of cross-platform mobile applications
+including those for iOS. Keep in mind that Python is not a native iOS development language 
+so Kivy acts as a bridge to facilitate this process.
