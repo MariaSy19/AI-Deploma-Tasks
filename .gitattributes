@@ -1,2 +1,4 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+''' 1. Write a program which will find all such numbers which are divisible by 7 but are not divisible by 5,
+between 2000 and 3000 (both included). The numbers obtained should be printed in a comma-separated sequence
+on a single line.'''
+
